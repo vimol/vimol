@@ -1,0 +1,5 @@
+/Users/filipeoliveira/Documents/vimol/build/CMakeFiles/rebuild_cache.dir
+/Users/filipeoliveira/Documents/vimol/build/CMakeFiles/edit_cache.dir
+/Users/filipeoliveira/Documents/vimol/build/src/CMakeFiles/rebuild_cache.dir
+/Users/filipeoliveira/Documents/vimol/build/src/CMakeFiles/edit_cache.dir
+/Users/filipeoliveira/Documents/vimol/build/src/CMakeFiles/vimol.dir
